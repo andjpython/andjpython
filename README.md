@@ -1,39 +1,61 @@
-# Anderson Silveira 👨‍💻  
-**Desenvolvedor em formação | Python · Flask · Twilio · C# · .NET Core**
+<h1 align="center">Anderson Silveira</h1>
+<p align="center">
+  Desenvolvedor em formação · Python | Flask | Twilio | .NET Core
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Construindo+bots+que+cuidam+de+você;Automatizando+o+cotidiano+com+Python;Dev+em+evolução+contínua!+🚀" alt="Typing animation" />
+</p>
 
 ---
 
-🎓 Estudante de Engenharia de Software (UNIASSELVI) — 3º semestre  
-📚 Cursos práticos na Hashtag Treinamentos (Python) e Alura (.NET/C#)
+## 🧠 Sobre mim
 
-🚀 Apaixonado por automação e bots inteligentes.  
-Atualmente trabalhando em um projeto de **lembrete de remédios via WhatsApp**, com:
-- Envio automático
-- Confirmação de dose
-- Reenvio por pendência
-- Interação com linguagem natural
-- Histórico de doses
-- Notificações com emojis e contexto
+Sou Anderson, desenvolvedor em formação (Engenharia de Software - UNIASSELVI) com foco em automação, bots e soluções reais para o dia a dia.
+
+Crio projetos que automatizam tarefas de forma inteligente, usando **Python**, **Twilio**, **Flask** e **.NET**.  
+Atualmente desenvolvo um **bot de lembrete de remédios via WhatsApp**, mas sempre estou explorando novas ideias, tecnologias e linguagens.
 
 ---
 
-### 🧠 Tecnologias que venho utilizando:
-- `Python`, `Flask`, `Twilio API`, `APScheduler`
-- `C#`, `.NET Core`, `JSON`, `Git`, `Jupyter Notebooks`
+## 🚀 Stack de habilidades
+
+| Linguagens      | Frameworks        | Outros              |
+|-----------------|-------------------|---------------------|
+| Python 🐍        | Flask ⚙️           | Twilio API 📲        |
+| C# ⚙️           | .NET Core 🖥️        | APScheduler ⏰      |
+| JSON 📄         |                   | Git / GitHub 🧠     |
 
 ---
 
-### 📌 Projeto destaque:
-🔗 [`lembrete-remedios-boot`](https://github.com/andjpython/lembrete-remedios-boot)  
-Bot completo de automação de lembrete de medicamentos via WhatsApp
+## 📦 Repositórios em destaque
+
+🔹 [`lembrete-remedios-boot`](https://github.com/andjpython/lembrete-remedios-boot)  
+Bot com confirmação de doses via WhatsApp, reenvio automático, histórico e IA de interação.
+
+🔹 `estudos-python` (privado)  
+Scripts e experiências com Python puro, focado em aprendizado e boas práticas.
+
+🔹 `análise-de-dados-em-python` (privado)  
+Experimentos com pandas e Jupyter em datasets reais.
 
 ---
 
-### 📬 Onde me encontrar:
-- LinkedIn: [andjpython](https://www.linkedin.com/in/andjpython/)
-- YouTube: [@andersonsilveira](https://www.youtube.com/@AndersonSilveira-d5y)
-- Instagram: [@andersonsilveira1979](https://www.instagram.com/andersonsilveira1979)
+## 📚 Aprendizados e formações
+
+🎓 **Engenharia de Software** — UNIASSELVI (3º semestre)  
+📘 **Python Developer** — Hashtag Treinamentos  
+🧱 **.NET & C#** — Alura  
+🎯 Foco em desenvolvimento backend, automação e bots inteligentes
 
 ---
 
-🧩 *Aprendendo todos os dias. Evoluindo com cada linha de código.*
+## 📫 Contato e redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andjpython)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/andersonsilveira1979)
+
+---
+
+> 🧩 “Aprendendo todos os dias. Evoluindo com cada linha de código.”
