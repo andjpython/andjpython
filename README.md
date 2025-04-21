@@ -20,10 +20,11 @@ Atualmente desenvolvo um **bot de lembrete de remédios via WhatsApp**, mas semp
 
 ## 🚀 Stack de habilidades
 
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) | ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json) |
-|---|---|---|
-| ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) | ![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet) | ![APScheduler](https://img.shields.io/badge/-APScheduler-05122A?style=flat) |
-| ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
+| Linguagens     | Frameworks    | Outros              |
+|----------------|---------------|---------------------|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff) | Flask ⚙️       | Twilio API 📲         |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)     | .NET Core 🖥️    | APScheduler ⏰        |
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)     |               | Git / GitHub 🧠        |
 
 ---
 
@@ -40,13 +41,12 @@ Experimentos com pandas e Jupyter em datasets reais.
 
 ---
 
-## 📈 Minhas estatísticas
+## 📊 Minhas estatísticas
 
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andjpython&show_icons=true&theme=github_dark&locale=pt-br)
+![Estatísticas do GitHub de Anderson](https://github-readme-stats.vercel.app/api?username=andjpython&show_icons=true&theme=github_dark&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andjpython&layout=compact&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andjpython&layout=compact&theme=github_dark)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andjpython&bg_color=0d1117&color=58a6ff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andjpython&theme=github-compact)
 
 ---
 
@@ -61,10 +61,10 @@ Experimentos com pandas e Jupyter em datasets reais.
 
 ## 📫 Contato e redes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andjpython)  
-[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/andersonsilveira1979)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/andjpython)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/andersonsilveira1979)
 
 ---
 
-> _"Aprendendo todos os dias. Evoluindo com cada linha de código."_ ☕
+> 🧩 *“Aprendendo todos os dias. Evoluindo com cada linha de código.”*
