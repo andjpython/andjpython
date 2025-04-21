@@ -7,6 +7,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Construindo+bots+que+cuidam+de+você;Automatizando+o+cotidiano+com+Python;Dev+em+evolução+contínua!+🚀" alt="Typing animation" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Core" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
+</p>
+
 ---
 
 ## 🧠 Sobre mim
@@ -52,10 +64,10 @@ Experimentos com pandas e Jupyter em datasets reais.
 
 ## 📫 Contato e redes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andjpython)
-[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andjpython)  
+[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)  
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/andersonsilveira1979)
 
 ---
 
-> 🧩 “Aprendendo todos os dias. Evoluindo com cada linha de código.”
+> _🧩 “Aprendendo todos os dias. Evoluindo com cada linha de código.”_
