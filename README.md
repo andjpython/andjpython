@@ -47,8 +47,8 @@ Experimentos com pandas e Jupyter em datasets reais.
 ## 📊 Insights do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andjpython&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andjpython&layout=compact&theme=tokyonight&hide_title=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andjpython&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andjpython&layout=compact&theme=tokyonight&hide_title=true" />
 </p>
 
 <p align="center">
@@ -72,8 +72,8 @@ Experimentos com pandas e Jupyter em datasets reais.
 
 ## 🌐 Contato e redes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andjpython)  
-[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/andjpython)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC3QkbGyvHoEwRVAB5gx_4xQ)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square)](https://www.instagram.com/andersonsilveira1979)
 
 ---
