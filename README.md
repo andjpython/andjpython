@@ -7,18 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Construindo+bots+que+cuidam+de+você;Automatizando+o+cotidiano+com+Python;Dev+em+evolução+contínua!+🚀" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Core" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
-</p>
-
 ---
 
 ## 🧠 Sobre mim
@@ -32,11 +20,10 @@ Atualmente desenvolvo um **bot de lembrete de remédios via WhatsApp**, mas semp
 
 ## 🚀 Stack de habilidades
 
-| Linguagens      | Frameworks        | Outros              |
-|-----------------|-------------------|---------------------|
-| Python 🐍        | Flask ⚙️           | Twilio API 📲        |
-| C# ⚙️           | .NET Core 🖥️        | APScheduler ⏰      |
-| JSON 📄         |                   | Git / GitHub 🧠     |
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) | ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json) |
+|---|---|---|
+| ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) | ![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet) | ![APScheduler](https://img.shields.io/badge/-APScheduler-05122A?style=flat) |
+| ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
 
 ---
 
@@ -50,6 +37,16 @@ Scripts e experiências com Python puro, focado em aprendizado e boas práticas.
 
 🔹 `análise-de-dados-em-python` (privado)  
 Experimentos com pandas e Jupyter em datasets reais.
+
+---
+
+## 📈 Minhas estatísticas
+
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andjpython&show_icons=true&theme=github_dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andjpython&layout=compact&theme=github_dark)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andjpython&bg_color=0d1117&color=58a6ff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -70,4 +67,4 @@ Experimentos com pandas e Jupyter em datasets reais.
 
 ---
 
-> _🧩 “Aprendendo todos os dias. Evoluindo com cada linha de código.”_
+> _"Aprendendo todos os dias. Evoluindo com cada linha de código."_ ☕
